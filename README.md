@@ -1,2 +1,1 @@
-# bind9-dns-server
-bind9-dns-server
+# dns-bind9-server
